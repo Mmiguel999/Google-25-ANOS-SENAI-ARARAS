@@ -1,0 +1,152 @@
+*{
+padding: 0;
+margin: 0;
+font-size: 14px;
+font-family: arial, sans-serif;
+}
+
+.borda1{
+border: 2px solid black;
+}
+
+.border0{
+border: 0px;
+}
+
+.login{
+background-color: #0b57d0;
+border-radius: 30px;
+color: white;
+width: 75px;
+height: 24px;
+padding: 3px 4px;
+}
+
+.cp{
+align-items: center;
+padding: 10px;
+}
+
+
+.inicio{
+align-content: end;
+justify-items: right;
+gap: 15px;
+padding: 10px 15px;
+height: 40px;
+}
+
+.teste1{
+ display: flex;
+ gap: 15px;
+
+}
+
+.imagempf{
+height: 30px;
+width: 40px;    
+}
+
+.meio{
+align-content: center;
+justify-items: center;
+height: 480px;
+
+}
+
+.senai25{
+width: 750px;
+height: 230px;
+justify-content: center;  
+}
+
+.pesquisa{
+background-color: #f8f9fa;
+border: 1px solid #474747;
+color: #3c4043;
+padding: 0 16px;
+height: 40px;
+margin: 11px 4px;
+width: 700px;
+border-radius: 25px;
+margin: 10px;
+box-shadow: 5px 5px 10px #ececec;
+display: flex;
+}
+
+.botaum{
+background-color: #f8f9fa;
+border: 1px solid #f7f8f9;;
+color: #3c4043;
+padding: 0 16px;
+height: 30px;
+margin: 11px 4px;
+cursor: pointer;
+border: none;
+}
+
+.tamanho {
+height: 290px; 
+}
+
+.centerp{
+justify-items: left;
+align-items: start;  
+padding: 10px;  
+}
+
+.pp{
+gap: 50px;
+justify-content: space-between;
+display: flex;
+align-items: center;   
+}
+
+.texto-hover {
+  text-decoration: none; /* Remove o sublinhado por padrão */
+}
+
+.texto-hover:hover {
+  text-decoration: underline; /* Adiciona o sublinhado ao passar o mouse */
+  cursor: pointer; /* Muda o cursor para indicar que é clicável ou interativo */
+}
+
+
+.rodape{
+background-color: #f7f8f9;
+border-top: 1px solid #dadce0;
+color: #1f1f1f;
+}
+
+
+.brasil{
+padding: 15px 30px;
+background-color: #f7f8f9;
+}
+
+.palavras{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+.palavras2{
+align-content: start;
+justify-items: left;
+display: flex;
+gap: 15px;
+padding: 15px 30px;
+}
+
+.palavras3{
+align-content: end;
+justify-items: right;
+display: flex; 
+gap: 15px;  
+padding: 15px 30px;
+}
+
+
+.psscm{
+cursor: pointer;
+}
